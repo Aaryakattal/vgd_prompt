@@ -1,0 +1,5 @@
+Console.WriteLine("223");
+Console.WriteLine(223);
+
+Console.WriteLine("true");
+Console.WriteLine(true);
