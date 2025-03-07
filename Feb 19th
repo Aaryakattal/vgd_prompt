@@ -1,0 +1,10 @@
+//Journal promt for 19th feb, wasent here for a few days 
+tring firstName;
+firstName = "Kunj";
+Console.WriteLine(firstName);
+firstName = "Aarya";
+Console.WriteLine(firstName);
+firstName = "Kal";
+Console.WriteLine(firstName);
+firstName = "Jhon ";
+Console.WriteLine(firstName);
