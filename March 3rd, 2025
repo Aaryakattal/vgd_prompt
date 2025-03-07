@@ -1,0 +1,14 @@
+//Today i learned how to assing certain variables to create a scentence 
+
+//Code:
+
+string Name =("Bob");
+int messages = 3;
+float Temp = 34.4f;
+Console.Write("hello,");
+Console.Write(Name);
+Console.Write(" you have ");
+Console.Write(messages);
+Console.Write(" Messages in youre inbox. The temprature is ");
+Console.Write(Temp); 
+Console.Write(" Celsius");	
